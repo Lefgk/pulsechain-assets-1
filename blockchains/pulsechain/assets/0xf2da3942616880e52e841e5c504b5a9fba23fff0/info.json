@@ -1,7 +1,8 @@
 {
-    "name": "NEXION on PulseChain",
-    "description": "NEXION token on PulseChain",
-    "explorer": "https://scan.pulsechain.box/token/0xf2da3942616880e52e841e5c504b5a9fba23fff0",
+    "name": "Nexion",
+    "website": "https://nexionpulse.com/",
+    "description": "Nexion is a DeFi ecosystem on PulseChain featuring a ve(3,3) DEX, auto-compounding vaults, lending, and prediction markets.",
+    "explorer": "https://scan.pulsechain.com/token/0xF2Da3942616880E52e841E5C504B5A9Fba23FFF0",
     "type": "ERC20",
     "symbol": "NEON",
     "decimals": 18,
@@ -12,12 +13,24 @@
     ],
     "links": [
         {
-            "name": "explorer",
-            "url": "https://scan.pulsechain.box/token/0xf2da3942616880e52e841e5c504b5a9fba23fff0"
+            "name": "website",
+            "url": "https://nexionpulse.com/"
         },
         {
-            "name": "dexscreener",
-            "url": "https://dexscreener.com/pulsechain/0xf2da3942616880e52e841e5c504b5a9fba23fff0"
+            "name": "twitter",
+            "url": "https://x.com/NexionPulse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/NexionPulse"
+        },
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.com/token/0xF2Da3942616880E52e841E5C504B5A9Fba23FFF0"
+        },
+        {
+            "name": "docs",
+            "url": "https://nexion-1.gitbook.io/nexion"
         }
     ]
 }
